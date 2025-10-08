@@ -14,13 +14,10 @@ El proyecto busca obtener información valiosa que pueda servir para la **toma d
 ---
 
 ## 📂 Estructura del Repositorio
-AnalisisVentas-Python-Pandas/
-│
-├── Análisis_de_datos_1.ipynb #proceso ETL y el análisis
-├── AnalisisVentasEDA #proceso EDA
-├── datos/
-│ └── ventas.csv # Dataset original utilizado
-└── README.md # Este archivo
+Análisis_de_datos_1.ipynb : proceso ETL y el análisis
+AnalisisVentasEDA : proceso EDA
+datos/ventas.csv : Dataset original utilizado
+README.md : Este archivo
 
 
 ---
