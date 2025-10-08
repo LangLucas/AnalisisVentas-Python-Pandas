@@ -14,17 +14,18 @@ El proyecto busca obtener información valiosa que pueda servir para la **toma d
 ---
 
 ## 📂 Estructura del Repositorio
-Análisis_de_datos_1.ipynb : proceso ETL y el análisis
-AnalisisVentasEDA : proceso EDA
-datos/ventas.csv : Dataset original utilizado
-README.md : Este archivo
+
+- `Análisis_de_datos_1.ipynb`: proceso ETL y el análisis  
+- `AnalisisVentasEDA.ipynb`: proceso EDA  
+- `datos/ventas.csv`: dataset original utilizado  
+- `README.md`: este archivo
 
 
 ---
 
 ## Tecnologías y Librerías Utilizadas
 - **Python 3.x**
-- **Pandas** → manipulación y análisis de datos
+- **Pandas**
 - **Google Colab**
 
 ---
